@@ -11,8 +11,8 @@
     "light": "#F25B3A",
     "dark": "#B1280A",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#B1280A",
+      "to": "#F25B3A"
     }
   },
   "topbarLinks": [
@@ -55,7 +55,13 @@
     },
     {
       "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+      "pages": [
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation"
+      ]
     },
     {
       "group": "API Documentation",
